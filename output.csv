@@ -1,0 +1,3 @@
+id,title,effort,type,overview,poc,remediation,references,approved,affected_hosts
+32,haya 3ad,HARD,Web Application,test,test,corriger la config,none,true,myvps
+33,haya 3ad,HARD,Web Application,test,test,corriger la config,none,true,myvps
