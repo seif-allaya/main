@@ -7,8 +7,11 @@ Welcome to Darks repository.
 A curated list of some awesome awesome (curated lists) ressources
 
 https://github.com/sindresorhus/awesome
+
 https://github.com/youngwookim/awesome-hadoop
+
 https://github.com/bayandin/awesome-awesomeness
+
 https://github.com/cjbarber/ToolsOfTheTrade
 
 ##Contact
