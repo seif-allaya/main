@@ -2,4 +2,14 @@
 #Main
 Welcome to Darks repository.
 
+
+##All start by a search
+A curated list of some awesome awesome (curated lists) ressources
+
+https://github.com/sindresorhus/awesome
+https://github.com/youngwookim/awesome-hadoop
+https://github.com/bayandin/awesome-awesomeness
+https://github.com/cjbarber/ToolsOfTheTrade
+
+##Contact
 Feel free to get in touch ;)
